@@ -1,0 +1,6 @@
+.vscode
+.idea
+.env
+mongodb
+__pycache__
+helper/__pycache__
